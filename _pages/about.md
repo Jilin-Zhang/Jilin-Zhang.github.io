@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Jilin Zhang's personal page"
 author_profile: true
 redirect_from: 
   - /about/
