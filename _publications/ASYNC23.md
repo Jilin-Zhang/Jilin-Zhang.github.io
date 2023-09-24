@@ -6,5 +6,5 @@ excerpt: 'As an embedded library of the Scala programming language that leverage
 date: 2023-09-06
 venue: 'ASYNC'
 paperurl: 'https://ieeexplore.ieee.org/document/10239616'
-citation: '**Jilin Zhang**, Chunqi Qian, Ddxuan Huo, Jian Zhang and Hong Chen, "Designing Self-timed Asynchronous Circuits with Chisel," 2023 28th IEEE International Symposium on Asynchronous Circuits and Systems (ASYNC), Beijing, China, 2023, pp. 27-33, doi: 10.1109/ASYNC58294.2023.10239616.'
+citation: 'Jilin Zhang, Chunqi Qian, Ddxuan Huo, Jian Zhang and Hong Chen, "Designing Self-timed Asynchronous Circuits with Chisel," 2023 28th IEEE International Symposium on Asynchronous Circuits and Systems (ASYNC), Beijing, China, 2023, pp. 27-33, doi: 10.1109/ASYNC58294.2023.10239616.'
 ---
