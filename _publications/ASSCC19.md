@@ -6,5 +6,5 @@ excerpt: 'In this paper, we put forward an asynchronous spiking neural network (
 date: 2019-04-06
 venue: 'ASSCC'
 paperurl: 'https://ieeexplore.ieee.org/document/9056903'
-citation: '**Jilin Zhang**, H. Wu, J. Wei, S. Wei and H. Chen, "An Asynchronous Reconfigurable SNN Accelerator With Event-Driven Time Step Update," 2019 IEEE Asian Solid-State Circuits Conference (A-SSCC), Macau, Macao, 2019, pp. 213-216, doi: 10.1109/A-SSCC47793.2019.9056903.'
+citation: 'Jilin Zhang, H. Wu, J. Wei, S. Wei and H. Chen, "An Asynchronous Reconfigurable SNN Accelerator With Event-Driven Time Step Update," 2019 IEEE Asian Solid-State Circuits Conference (A-SSCC), Macau, Macao, 2019, pp. 213-216, doi: 10.1109/A-SSCC47793.2019.9056903.'
 ---
